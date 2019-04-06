@@ -1,0 +1,41 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="elevation">2dp</dimen>
+    <dimen name="radius">4dp</dimen>
+
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="button_margin">16dp</dimen>
+    <dimen name="bar_margin">16dp</dimen>
+    <dimen name="bar_margin_32">32dp</dimen>
+    <dimen name="bar_padding">16dp</dimen>
+    <dimen name="dialog_padding">16dp</dimen>
+    <dimen name="dialog_parent_padding">32dp</dimen>
+    <dimen name="bar_padding_32">32dp</dimen>
+    <dimen name="bar_padding_64">64dp</dimen>
+    <dimen name="profile_width">75dp</dimen>
+    <dimen name="profile_height">75dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="screen_padding">25dp</dimen>
+
+    <!-- fonts size -->
+    <dimen name="font_size_title">20sp</dimen>
+    <dimen name="font_headline">24sp</dimen>
+    <dimen name="font_sub_heading">16sp</dimen>
+    <dimen name="font_button">14pt</dimen>
+    <dimen name="font_size_mini">10sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_medium">15sp</dimen>
+    <dimen name="font_size_large">22sp</dimen>
+    <dimen name="font_size_x_large">30sp</dimen>
+
+    <dimen name="reg_size">16sp</dimen>
+    <dimen name="above_reg_size">18sp</dimen>
+    <dimen name="medium_size">24sp</dimen>
+
+</resources>

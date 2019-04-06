@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maxb</string>
+    <string name="no_result">لا يوجد نتائج</string>
+    <string name="someting_went_wrong">حدث خطا ما</string>
+    <string name="brands">الماركات</string>
+    <string name="categories">الفئات</string>
+</resources>
